@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=ji-eun-lab&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=D5C9DD&height=150&section=header&text=ji-eun-lab&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 <br/> 
 <br/> 
 ####  :email: pje123131@gmail.com :email: 
